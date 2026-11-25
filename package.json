@@ -1,0 +1,9 @@
+{
+  "name": "cours-github",
+  "version": "1.0.0",
+  "description": "Repo de TP du cours GitHub en projet de groupe",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
