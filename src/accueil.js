@@ -1,4 +1,4 @@
-const titre = "Bienvenue";
+const titre = "Salut";
 
 function accueil(nom) {
   return `${titre} ${nom}`;
