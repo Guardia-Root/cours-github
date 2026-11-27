@@ -13,3 +13,8 @@ test("total de deux articles", () => {
   ];
   assert.strictEqual(total(articles), 25);
 });
+
+test("remise de 10 % sur 200", () => {
+  const { remise } = require("../src/panier");
+  assert.strictEqual(remise(200, 10), 180);
+});
