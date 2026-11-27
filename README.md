@@ -11,3 +11,4 @@ Les consignes sont dans [TP.md](TP.md).
 ```bash
 npm test
 ```
+Notes en vrac sur le projet.
